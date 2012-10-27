@@ -28,7 +28,6 @@ add 2 space or tab to break line
 	- Android/IOS5 app how to...
 * English and Chinese 2-way translation 
 	- Cooperation with TCSISU translation group
-	- 
 
 
 
