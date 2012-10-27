@@ -8,16 +8,19 @@
 	- Beijing
 	- Chongqing
 * Love things:
-	- Food  
- btw i can eat as much as i can without getting weight
+	- Food	
+ btw i never get weight from food
 	- High-tech
 	- Climbing
+	- hint	
+add 2 space or tab to break line
 
 
 ##What am i doing? ##
 * web designer
-	- php
+	- php+css+html
 	- myql
+	- linux server/windows 2003 server
 	- zend framework/dede/smarty
 * information technology consulting
 	- linux server installation
@@ -32,14 +35,14 @@
 
 ##此博客存在的意义##
 
-个人价值输出,资源分享
+**个人价值**输出,资源**分享**
 
 
 ##My contact information:##
 
--	Phone:
--	Mail:
--	Address
+-	Phone:18602309133
+-	Mail: <shoaly@qq.com>
+-	Address:Nr 3rd. 
 
 
 
