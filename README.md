@@ -35,7 +35,7 @@ add 2 space or tab to break line
 
 ##此博客存在的意义##
 
-**个人价值**输出,资源**分享**
+**个人价值输出,资源分享**
 
 
 ##My contact information:##
