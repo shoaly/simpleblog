@@ -36,10 +36,11 @@ add 2 space or tab to break line
 
 **个人价值输出,资源分享**
 
+此博客用*markdown*格式编写, 希望这次博客能够坚持下去, 现在需要尽量找机会锻炼自己的写作和阅读能力, 此博客希望担此重任.
+
 
 ##My contact information:##
 
--	Phone:18602309133
 -	Mail: <shoaly@qq.com>
 -	Address:Nr 3rd.  
 
