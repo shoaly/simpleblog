@@ -1,5 +1,7 @@
 <a name="it1" id="it1"></a>
 
+本文入口地址:<https://github.com/shoaly>
+
 #大道向北#
 ##Who am i?##
 
@@ -54,6 +56,7 @@ more links:
 * [baidu](http://badiu.com)
 * 易斯博瑞网站[src]
 * return to [top](#it1)
+
 
 [src]: http://1999dr.com "199dr.com link"
 
